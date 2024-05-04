@@ -1,0 +1,2 @@
+* About
+This is a repo where I write down my knowledge while learning os course.
